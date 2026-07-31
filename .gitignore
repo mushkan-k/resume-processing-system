@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Resume files (NEVER push)
+data/
+C:/data/
+*.pdf
+*.doc
+*.docx
+
+# Logs
+*.log
+
+# Generated artifacts
+venv/
+lightning_logs/
+
+# Excel/Data files
+*.xlsx
